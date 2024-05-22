@@ -10,7 +10,7 @@ If you find this site helpful, please consider supporting my ongoing efforts thr
 
 
 # IntruderPayloads
-A collection of Burpsuite Intruder payloads, BurpBounty payloads (https://github.com/wagiro/BurpBounty), fuzz lists and pentesting methodologies. To pull down all 3rd party repos, run install.sh in the same directory of the IntruderPayloads folder.
+A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists and pentesting methodologies. To pull down all 3rd party repos, run install.sh in the same directory of the IntruderPayloads folder.
 
 
 
